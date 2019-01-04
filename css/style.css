@@ -77,6 +77,10 @@ img, video, audio {
 }
 
 
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
