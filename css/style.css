@@ -93,5 +93,8 @@ figcaption {
   background: #ccc;
 }
 
+[class*="col-"] {
+  margin: 2%;
+}
 
 
